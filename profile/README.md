@@ -19,7 +19,7 @@ SKILL.SCH trains the next generation of cloud and platform engineers through han
 | | |
 |---|---|
 | **CloudLabs** | Guided hands-on labs for AWS, Azure, GCP, Linux, and DevOps |
-| **SSlab** | Simulated internships where learners complete real technical projects and earn verified skill scores |
+| **SSlab Engine** | Simulated internships where learners complete real technical projects and earn verified skill scores |
 | **Learning Arcade** | Games and simulations that build muscle memory for Docker, security, and multi-cloud decisions |
 | **Resume Studio** | AI-assisted resume writing for tech roles |
 | **Partner Portal** | Connects learners with hiring partners and real-world projects |

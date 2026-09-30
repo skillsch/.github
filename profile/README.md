@@ -51,6 +51,6 @@ See all programs at [skill-sch.com](https://skill-sch.com).
 
 ## Get involved
 
-- **Graduates**: start at [joinsslabs.com](https://joinsslabs.com)
 - **Learners**: start at [skill-sch.com](https://skill-sch.com)
+- **Graduates**: start at [joinsslabs.com](https://joinsslabs.com)
 - **Hiring partners and corporate training**: [info@skill-sch.com](mailto:info@skill-sch.com)

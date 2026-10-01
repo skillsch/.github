@@ -1,5 +1,6 @@
-<h1 align="center">SKILL.SCH</h1>
-<p align="center"><b>Developing skills. Strengthening futures.</b></p>
+<p align="center">
+  <a href="https://skill-sch.com"><img src="./banner.svg" alt="SKILL.SCH — Developing skills. Strengthening futures." width="100%"></a>
+</p>
 <p align="center">
   AI-powered training in Cloud, DevOps, Data, and AI, with live mentorship and real-world projects that get you hired.
 </p>

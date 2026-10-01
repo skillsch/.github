@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2A5B,100:1E6FD9&height=240&section=header&text=SKILL.SCH&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developing%20skills.%20Strengthening%20futures.&descSize=20&descAlignY=58" alt="SKILL.SCH — Developing skills. Strengthening futures."/>
 
-<a href="https://skill-sch.com"><img src="./logo.png" width="160" alt="SKILL.SCH logo"/></a>
+<a href="https://skill-sch.com"><img src="./skillsch-logo.png" width="160" alt="SKILL.SCH logo"/></a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=1E6FD9&center=true&vCenter=true&width=900&lines=Cloud+%7C+DevOps+%7C+Data+%7C+AI;Live+mentorship+and+real-world+projects;CloudLabs+%7C+SSlab+Engine+%7C+Learning+Arcade;Azure+%7C+AWS+%7C+GCP+%7C+Kubernetes;Get+hired+as+a+cloud+engineer" alt="Cloud, DevOps, Data, AI"/>
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./banner-skillsch.png" alt="SKILL.SCH — Developing skills. Strengthening futures."/>
+<img width="100%" src="./banner-skillsch-logofont.png" alt="SKILL.SCH — Developing skills. Strengthening futures."/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=1E6FD9&center=true&vCenter=true&width=900&lines=Cloud+%7C+DevOps+%7C+Data+%7C+AI;Live+mentorship+and+real-world+projects;CloudLabs+%7C+SSlab+Engine+%7C+Learning+Arcade;Azure+%7C+AWS+%7C+GCP+%7C+Kubernetes;Get+hired+as+a+cloud+engineer" alt="Cloud, DevOps, Data, AI"/>
 
